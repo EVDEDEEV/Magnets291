@@ -1,0 +1,3 @@
+
+rootProject.name = "Magnets291"
+
